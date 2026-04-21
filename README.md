@@ -1,0 +1,1 @@
+Notebook on running Gaussian Process Regression using Thermodynamic Linear Algrabra. Also derivation and implementation of novel contrastive Hebbian style updates to perform Stochastic Variational GPR on noisy hardware.
